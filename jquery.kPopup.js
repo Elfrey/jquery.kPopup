@@ -1,7 +1,6 @@
 /**
  * User: Elfrey
  * Date: 26.01.12
- * To change this template use File | Settings | File Templates.
  * extMethods:
  *
  * init - plugin initialisation
